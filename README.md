@@ -28,7 +28,7 @@ Toal number of papers = 3
     * CV, self-attention stand-alone > CNN
 
 ### 2.5 ICML = 1
-* [Generative Pretraining from Pixels](https://openai.com/research/image-gpt)
+* [Generative Pretraining from Pixels](https://openai.com/research/image-gpt) (2020) (4)
     * CV, Image-GPT, Transformer at pixel-level for Image Classification
 
 ### 2.6 ICLR = 1
