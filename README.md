@@ -37,4 +37,4 @@ Toal number of papers = 4
     
 ### 2.7 arXiv = 1
 * [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (2023) (5)
-    * NLP, smaller LLM but better performace compared to chatGPT
+    * NLP, smaller LLM but better performace compared to chatGPT, modifications in details for efficiecy and smaller memory
