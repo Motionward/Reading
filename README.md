@@ -23,7 +23,7 @@ Toal number of papers = 2
 
 ### 2.3 ECCV = 0
 
-### 2.4 NIPS = 0 
+### 2.4 NIPS = 1
 * [Stand-Alone Self-Attention in Vision Models](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf) (2019) (4)
     * CV, self-attention stand-alone > CNN
     
