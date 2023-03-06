@@ -2,15 +2,16 @@
 
 ## I. Overview 
 
-Toal number of papers = 4
+Toal number of papers = 5
 
 ### 1.1 Per Area
 * Computer vision = 3
 * Natural Language Processing = 1
 * Autonomous Driving 
+* Deep Learning = 1
 
 ### 1.2 Per Year 
-* 2023 = 1
+* 2023 = 2
 * 2022 = 0
 * 2021 = 1
 * 2020 = 1
@@ -35,6 +36,8 @@ Toal number of papers = 4
 * [AN IMAGE IS WORTH 16X16 WORDS TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://openreview.net/forum?id=YicbFdNTTy) (2021) (5)
     * CV, ViT, Transformer at patch-level for Image Classification 
     
-### 2.7 arXiv = 1
+### 2.7 arXiv = 2
 * [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (2023) (5)
     * NLP, smaller LLM but better performace compared to chatGPT, modifications in details for efficiecy and smaller memory
+* [Performance is not enough: a story of the Rashomon's quartet](https://arxiv.org/abs/2302.13356) (2023) (1)
+    * DL, Visualization of ML models shows different models achieve the same result on same dataset, but each has different weights on different parameters in calculation. 
