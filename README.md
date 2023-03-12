@@ -2,23 +2,25 @@
 
 ## I. Overview 
 
-Toal number of papers = 5
+Toal number of papers = 6
 
 ### 1.1 Per Area
-* Computer vision = 3
+* Computer vision = 4
 * Natural Language Processing = 1
 * Autonomous Driving 
 * Deep Learning = 1
 
 ### 1.2 Per Year 
 * 2023 = 2
-* 2022 = 0
+* 2022 = 1
 * 2021 = 1
 * 2020 = 1
 * 2019 = 1
 
 ## II. Publications
-### 2.1 CVPR = 0 
+### 2.1 CVPR = 1
+* [NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks](https://github.com/fawazsammani/nlxgpt) (2022) (3)
+    * CV/NLP, text-image, model of (predict + explain). Disadvantage: prediction performance decareses.  
 
 ### 2.2 ICCV = 0 
 
