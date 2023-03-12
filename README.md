@@ -2,7 +2,7 @@
 
 ## I. Overview 
 
-Toal number of papers = 6
+Total number of papers = 6
 
 ### 1.1 Per Area
 * Computer vision = 4
