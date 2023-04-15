@@ -2,16 +2,16 @@
 
 ## I. Overview 
 
-Total number of papers = 6
+Total number of papers = 7
 
 ### 1.1 Per Area
-* Computer vision = 4
+* Computer vision = 5
 * Natural Language Processing = 1
 * Autonomous Driving 
 * Deep Learning = 1
 
 ### 1.2 Per Year 
-* 2023 = 2
+* 2023 = 3
 * 2022 = 1
 * 2021 = 1
 * 2020 = 1
@@ -43,3 +43,5 @@ Total number of papers = 6
     * NLP, smaller LLM but better performace compared to chatGPT, modifications in details for efficiecy and smaller memory
 * [Performance is not enough: a story of the Rashomon's quartet](https://arxiv.org/abs/2302.13356) (2023) (1)
     * DL, Visualization of ML models shows different models achieve the same result on same dataset, but each has different weights on different parameters in calculation. 
+* [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf)  (2023)  (5)
+    * CV, Large-scaled Vision Model for segmentation, prompt-based, zero-shot
